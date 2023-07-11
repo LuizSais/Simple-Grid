@@ -81,7 +81,7 @@ p {
 }
 
 .container {
-    width: 90%
+    width: 100%
 }
 
 .row {
@@ -123,7 +123,7 @@ p {
 }
 
 .col-4-sm {
-    width: 29.33%
+    width: 39.33%
 }
 
 .col-5-sm {
@@ -185,7 +185,7 @@ p {
         width: 21%
     }
     .col-4 {
-        width: 29.33%
+        width: 100%
     }
     .col-5 {
         width: 37.66%
